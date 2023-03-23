@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.AssemblyInfo.cs
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/odev/odev/bin/Debug/net7.0/odev
+/Users/beytullah/Projects/odev/odev/bin/Debug/net7.0/odev.deps.json
+/Users/beytullah/Projects/odev/odev/bin/Debug/net7.0/odev.runtimeconfig.json
+/Users/beytullah/Projects/odev/odev/bin/Debug/net7.0/odev.dll
+/Users/beytullah/Projects/odev/odev/bin/Debug/net7.0/odev.pdb
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.dll
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/refint/odev.dll
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.pdb
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/odev.genruntimeconfig.cache
+/Users/beytullah/Projects/odev/odev/obj/Debug/net7.0/ref/odev.dll
